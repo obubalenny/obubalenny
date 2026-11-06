@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/4
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
