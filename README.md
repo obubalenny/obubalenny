@@ -1,16 +1,34 @@
-## Hi there 👋
+# 📡 Terminal: obubalenny // Security Analyst
 
-<!--
-**obubalenny/obubalenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+========================================================================
+[+] SYSTEM STATUS: ACTIVE
+[+] PRIMARY ROLE : Security Analyst & Defensive Engineer
+[+] CORE ENGINE  : Vulnerability Management | Web App Security | AD Labs
+========================================================================
+```
 
-Here are some ideas to get you started:
+### 🛠️ Technical Arsenal & Telemetry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Defensive Auditing:** `Nessus Essentials` | `Greenbone OpenVAS` | `PhishTool`
+* **Offensive Emulation:** `Metasploit` | `Ffuf` | `Aircrack-ng` | `Impacket`
+* **Threat Intel & OSINT:** `Cisco Talos` | `VirusTotal` | `Abuse.ch`
+
+---
+
+### 📊 GitHub Metrics & Security Operational Stats
+
+<p align="left">
+<img src="https://vercel.app" alt="Lenson's GitHub Stats" height="150" />
+<img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🗄️ Active Framework Deployments
+* 🛡️ **[Cyber Shujaa Portfolio](https://github.com):** 10 detailed assessment logs mapping full-chain laboratory network compromise, container breakout, and AD replication abuse.
+* 🛰️ **[Network Recon Lab](https://github.com):** Service verification vectors and modular shell execution records against complex target systems.
+
+---
+
+📬 **Secure Shell Handshake:** obubalenny@gmail.com | [LinkedIn](https://linkedin.com/in/obubalenson)
