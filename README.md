@@ -1,4 +1,4 @@
-# 📡 Terminal: obubalenny // Security Analyst
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&width=600&lines=Security+Analyst;Vulnerability+Management;Web+App+Security;AD+Labs" alt="Typing SVG" />
 
 ```text
 ========================================================================
@@ -31,6 +31,10 @@
 * 🛰️ **[Network Recon Lab](https://github.com/obubalenny/metasploitable2-network-recon-lab):** Service verification vectors and modular shell execution records against complex target systems.
 * 🌐 **[Personal Portfolio Site](https://obubalenny.github.io):** Technical projects, cybersecurity lab challenges, and professional ICT background.
 
+
 ---
 
-📬 **Secure Shell Handshake:** obubalenny@gmail.com | [LinkedIn](https://linkedin.com/in/obubalenson)
+📬 **Secure Shell Handshake:**
+
+<a href="mailto:obubalenny@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email" /></a>
+<a href="https://linkedin.com/in/obubalenson"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" /></a> 
