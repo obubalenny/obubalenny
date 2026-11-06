@@ -19,8 +19,8 @@
 ### 📊 GitHub Metrics & Security Operational Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=obubalenny&show_icons=true&theme=dark&hide_border=true" alt="Lenson's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obubalenny&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Lenson's GitHub Stats" height="150" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" height="150" />
 </p>
 
 ---
